@@ -19,6 +19,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Package Library (Pusher - Third Party)](https://pub.dev/packages/pusher)
 - [Package Library (Pusher Web Socket - Third Party)](https://pub.dev/packages/pusher_websocket_flutter)
 - [Package Library (HTTP Request)](https://pub.dev/packages/http)
+![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 
  
 For help getting started with Flutter, view our
