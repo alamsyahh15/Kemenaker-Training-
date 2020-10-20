@@ -11,6 +11,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+
+![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 ## Tools untuk membuat project 
 - [Account Pusher - Silahkan Register Disini](https://dashboard.pusher.com/accounts/sign_in)
 - [Generate model data - Quicktype](https://app.quicktype.io/)
@@ -19,7 +21,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Package Library (Pusher - Third Party)](https://pub.dev/packages/pusher)
 - [Package Library (Pusher Web Socket - Third Party)](https://pub.dev/packages/pusher_websocket_flutter)
 - [Package Library (HTTP Request)](https://pub.dev/packages/http)
-![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 
  
 For help getting started with Flutter, view our
