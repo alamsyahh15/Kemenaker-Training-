@@ -12,7 +12,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 
-![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 ## Tools untuk membuat project 
 - [Account Pusher - Silahkan Register Disini](https://dashboard.pusher.com/accounts/sign_in)
 - [Generate model data - Quicktype](https://app.quicktype.io/)
